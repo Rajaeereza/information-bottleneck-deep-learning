@@ -1,8 +1,5 @@
 # On the Information Bottleneck Theory of Deep Learning
 
-**Course Project · Information Theory and Inference · University of Padova · 2022–2023**  
-Reza Rajaee · Sarvenaz Babakhani
-
 ---
 
 ## Overview
@@ -98,5 +95,5 @@ Saxe AM, Bansal Y, Dapello J, Advani M, Kolchinsky A, Tracey BD, Cox DD. *On the
 This repository contains the code and results from a course project. The results are organised by experimental condition (estimation method, activation function, optimizer, architecture). A cleaned and documented version of the codebase is planned.
 
 ---
-
-*Course project completed 2022–2023. University of Padova, Department of Physics and Astronomy.*
+**Course Project · Information Theory and Inference · University of Padova · 2022–2023**  
+Reza Rajaee · Sarvenaz Babakhani
